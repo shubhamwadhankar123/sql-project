@@ -1,2 +1,2 @@
-# sql-project
-Analysis of online bookstore and maximising profit using SQL
+# Analysis of online bookstore and maximising profit using SQL
+
